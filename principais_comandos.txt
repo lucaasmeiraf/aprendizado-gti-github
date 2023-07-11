@@ -1,0 +1,6 @@
+mkdir
+touch
+ls
+git checkout -b branch
+git log
+etc
